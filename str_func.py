@@ -9,6 +9,7 @@ def str_func(in_line):
     return result
 
 def str_func_title(in_line):
+    # Нет это я добавил коммент локально в PyCharm
     """
     Функция принимает на вход строку и возвращает каждое слово с заглавными буквами
     :param in_line: str
